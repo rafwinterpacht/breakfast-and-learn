@@ -1,0 +1,11 @@
+{
+  "project": "DA Block Collection",
+  "plugins": [
+    {
+      "id": "da-plugin-demo",
+      "title": "Plugin demo",
+      "environments": ["da-edit"],
+      "url": "https://main--da-block-collection--aemsites.hlx.live/tools/demo/demo.html"
+    }
+  ]
+}
